@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "juler-sites"
+  },
+  "targets": {
+    "juler-sites": {
+      "hosting": {
+        "default": ["juler-sites"],
+        "troop6059": ["troop6059"],
+        "techvault": ["techvault"]
+      }
+    }
+  }
+}
