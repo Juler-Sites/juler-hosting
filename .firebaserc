@@ -7,7 +7,9 @@
       "hosting": {
         "default": ["juler-sites"],
         "troop6059": ["troop6059"],
-        "techvault": ["techvault"]
+        "techvault": ["techvault"],
+        "troop6059-beta": ["beta-troop6059"],
+        "techvault-beta": ["beta-techvault"]
       }
     }
   }
