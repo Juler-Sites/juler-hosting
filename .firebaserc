@@ -11,7 +11,7 @@
         "memesite": ["memesite"],
         "troop6059-beta": ["beta-troop6059"],
         "techvault-beta": ["beta-techvault"],
-        "memesite": ["beta-memesite"]
+        "memesite-beta": ["beta-memesite"]
       }
     }
   }
