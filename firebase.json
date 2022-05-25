@@ -44,6 +44,24 @@
         "**/.*",
         "**/node_modules/**"
       ]
+    },
+    {
+      "target": "memesite",
+      "public": "memesite",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ]
+    },
+    {
+      "target": "memesite-beta",
+      "public": "memesite",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ]
     }
   ]
 }
