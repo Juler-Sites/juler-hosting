@@ -9,9 +9,11 @@
         "troop6059": ["troop6059"],
         "techvault": ["techvault"],
         "memesite": ["memesite"],
+        "supremepancake": ["supremepancake"],
         "troop6059-beta": ["beta-troop6059"],
         "techvault-beta": ["beta-techvault"],
-        "memesite-beta": ["beta-memesite"]
+        "memesite-beta": ["beta-memesite"],
+        "supremepancake-beta": ["beta-supremepancake"]
       }
     }
   }
